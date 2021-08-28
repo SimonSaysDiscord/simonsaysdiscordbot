@@ -14,6 +14,8 @@ Simon Says was created on the 7th of Novemeber 2020. It has since been verified 
 
 What are you waiting for? [Invite me now](https://discord.com/oauth2/authorize?client_id=774516332497731594&scope=bot&permissions=8)
 
+Check updates for the bot [here](https://simonsaystimer.carrd.co/), it includes a live countdown and what's going to be added!
+
 [![Discord Boats](https://discord.boats/api/widget/774516332497731594)](774516332497731594)
 
 © All rights reserved. We (Simon Says) have the right to revoke you access to the bot or this site at any time for any reason
