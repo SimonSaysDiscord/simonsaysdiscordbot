@@ -4,7 +4,7 @@ Hey there! Welcome to Simon Says, your free to play and locally fun discord bot!
 Simon Says was created on the 7th of Novemeber 2020. It has since been verified by on Discord and is on many bot lists! This bot is actually certified on [Discord Boats](https://discord.boats)! It is currently being managed by Grinder#0001 and community managers in the bot and support server. If you need help, we have a [Support Server](https://discord.gg/5FX9MhG). Now that I've given you basic information, lets see what I can do:
 
 - I have easy setup commands (s!setup & s!chan-setup)
-- I have type and flip commands (no more bias 50/50's!)
+- I have type and flip commands (no more biased 50/50's!)
 - I have enter and eliminate commands (to keep the flow of the game going)
 - I have shoot and votekick commands (1/4 chance of surving a shot, 5 votes to get a Simon votekicked!)
 - Mobile Support Team, to help you anywhere, anytime
@@ -13,8 +13,6 @@ Simon Says was created on the 7th of Novemeber 2020. It has since been verified 
 - We partner & affiliate with communites we like, rewarding them.
 
 What are you waiting for? [Invite me now](https://discord.com/oauth2/authorize?client_id=774516332497731594&scope=bot&permissions=8)
-
-Check updates for the bot [here](https://simonsaystimer.carrd.co/), it includes a live countdown and what's going to be added!
 
 [![Discord Boats](https://discord.boats/api/widget/774516332497731594)](774516332497731594)
 
